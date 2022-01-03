@@ -1,7 +1,16 @@
-{
+[
+  {
   "name": "Tall Cow",
   "image_url": "https://geekologie.com/2018/11/28/giant-cow-1.jpg",
   "color": "White and black spots",
   "background": "field",
   "udders": "regular"
-}
+  },
+  {
+  "name": "Fat Cow",
+  "image_url": "https://geekologie.com/2018/11/28/giant-cow-1.jpg",
+  "color": "Bue and white spots",
+  "background": "field",
+  "udders": "regular"
+  }
+]
