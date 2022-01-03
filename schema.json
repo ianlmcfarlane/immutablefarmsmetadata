@@ -1,1 +1,23 @@
-
+{
+	"metadata": [
+        {
+            "name": "name",
+            "type": "text"
+        },
+        {
+            "name": "color",
+            "type": "discrete",
+            "filterable": true
+        },
+        {
+            "name": "background",
+            "type": "discrete",
+            "filterable": false
+        },
+        {
+            "name": "udders",
+            "type": "enum",
+            "filterable": false
+        }
+    ]
+ }
